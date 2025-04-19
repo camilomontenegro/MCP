@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "weather": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "tsx",
+        "./weather.ts",
+        "C:\\Users\\camil\\OneDrive\\Escritorio\\DAM-FP\\Projects\\MCP"
+      ]
+    }
+  }
+}
