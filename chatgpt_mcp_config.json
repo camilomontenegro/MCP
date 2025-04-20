@@ -6,7 +6,7 @@
         "-y",
         "tsx",
         "./weather.ts",
-        "C:\\Users\\camil\\OneDrive\\Escritorio\\DAM-FP\\Projects\\MCP"
+        "C:\\Users\\camil\\OneDrive\\Escritorio\\DAM-FP\\Projects\\MCP\\main.ts"
       ]
     }
   }
